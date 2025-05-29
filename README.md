@@ -20,3 +20,4 @@ My internship experience at CODTECH IT Solutions was enriching and challenging. 
 
 #OUTPUT
 
+[![Image](https://github.com/user-attachments/assets/95756ca3-8245-4ce9-8ab4-f3e6b4fcce75)]
